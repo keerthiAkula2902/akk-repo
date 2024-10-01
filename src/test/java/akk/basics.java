@@ -9,7 +9,6 @@ import static org.hamcrest.Matchers.*;
 import static org.testng.Assert.assertEquals;
 
 import org.testng.Assert;
-
 import input.jsonResusableMethod;
 import input.payload;
 
