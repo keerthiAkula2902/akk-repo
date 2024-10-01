@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-22T15:47:46 IST" name="Suite" finished-at="2024-09-22T15:47:50 IST" duration-ms="4497">
+    <groups>
+    </groups>
+    <test started-at="2024-09-22T15:47:46 IST" name="Default test" finished-at="2024-09-22T15:47:50 IST" duration-ms="4497">
+      <class name="akk.DynamicJsonPayload">
+        <test-method signature="add(java.lang.String,java.lang.Integer)[pri:0, instance:akk.DynamicJsonPayload@5158b42f]" started-at="2024-09-22T15:47:46 IST" name="add" data-provider="inputs" finished-at="2024-09-22T15:47:49 IST" duration-ms="3493" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[keerthi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[100]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method signature="add(java.lang.String,java.lang.Integer)[pri:0, instance:akk.DynamicJsonPayload@5158b42f]" started-at="2024-09-22T15:47:49 IST" name="add" data-provider="inputs" finished-at="2024-09-22T15:47:50 IST" duration-ms="413" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[restAssured]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[200]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method signature="add(java.lang.String,java.lang.Integer)[pri:0, instance:akk.DynamicJsonPayload@5158b42f]" started-at="2024-09-22T15:47:50 IST" name="add" data-provider="inputs" finished-at="2024-09-22T15:47:50 IST" duration-ms="515" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Selenium]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[400]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+      </class> <!-- akk.DynamicJsonPayload -->
+    </test> <!-- Default test -->
+  </suite> <!-- Suite -->
+</testng-results>
